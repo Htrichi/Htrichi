@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Htrichi
-- 👀 I’m interested in Web development and Cybersecurity.
-- 🌱 I’m currently learning Web development, JS, HTML+CSS, Angular,etc...
-- 💞️ I’m looking to collaborate on Portfolio Projects.
+- 👀 I’m interested in software development for automatic systems and robotics.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on automation projects.
 - 📫 How to reach me: hamzatrichi@gmail.com
 
 <!---
